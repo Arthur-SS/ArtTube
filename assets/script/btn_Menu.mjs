@@ -29,9 +29,9 @@ function exibiHM() {
     var htmlM = `<div >
         <nav>
             <ul class="menuEsquerdo">
-                <a class="linkMenu" href="/"><li class="menuAtivo">Home</li></a>
-                <a class="linkMenu" href="/"><li class="menuAtivo">Em alta</li></a>
-                <a class="linkMenu" href="/"><li class="menuAtivo">Explorar</li></a>
+                <a class="linkMenu" href="index.html"><li class="menuAtivo">Home</li></a>
+                <a class="linkMenu" href="index.html"><li class="menuAtivo">Em alta</li></a>
+                <a class="linkMenu" href="index.html"><li class="menuAtivo">Explorar</li></a>
                 <div class="barraBot"></div>
             </ul>
         </nav>
