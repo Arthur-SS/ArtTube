@@ -14,7 +14,7 @@ function exibiHM() {
                     </div>
                 </label>        
             </div>
-            <a href="/" id="logo"></a>
+            <a href="index.html" id="logo"></a>
         </div>
         <div class="search">
             <form method="GET" class="srcForm">
