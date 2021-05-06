@@ -1,0 +1,33 @@
+.sugeridoContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 60px;
+    padding-top: 2.5%;
+}
+.sThumb {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1%;
+    width: max-content;
+}
+.thumbImg{
+    padding-right: 15px;
+}
+.linkSug{
+    display: flex;
+    font-size: 13px;
+    width: max-content;
+}
+.descThumb{
+    width: 200px;
+}
+.tituloSugestao{
+    width: max-content;
+    margin-top: 10px;
+
+}
+.sThumb:hover .tituloSugestao{
+    border-bottom: 1px solid #CCC;
+    transition-duration: 1s;
+}
